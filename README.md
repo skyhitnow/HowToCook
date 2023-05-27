@@ -1,4 +1,4 @@
-# 程序员烹饪指南
+# 程序员做饭指南
 
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Anduin2017/HowToCook/Continuous%20Integration/master)
 ![GitHub](https://img.shields.io/github/license/Anduin2017/HowToCook)
